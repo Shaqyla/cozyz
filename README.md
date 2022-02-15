@@ -1,5 +1,3 @@
-# cozyz
-About me
 <h1 align="center"> Hey, I'm Cozyz </h1>
 
 <h4 align="center">I'm a just learning.</h4>
